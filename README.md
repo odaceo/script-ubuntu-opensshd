@@ -1,4 +1,4 @@
-# Script | Ubuntu | OpensSSH Server
+# Script :: Ubuntu :: OpensSSH Server
 
 [![License](https://img.shields.io/github/license/odaceo/script-ubuntu-opensshd.svg)](LICENSE)
 
